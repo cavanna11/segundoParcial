@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1750229160 source:c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	"manipularTxt.h"
+	"manipularBin.h"
+
+1750208377 c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\menus.h
+
+1750225307 source:c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	"manipularTxt.h"
+	"manipularBin.h"
+
+1750218530 c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\manipulartxt.h
+
+1750219726 source:c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\manipulartxt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	"manipularTxt.h"
+
+1750228827 c:\users\usuario\desktop\facultad\programacion i\segundoparcial\segundoparcial\manipularbin.h
+
