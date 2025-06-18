@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1749589524 source:d:\guardar en pc\preparcial2\pp.c
+	<stdio.h>
+	<stdlib.h>
+	"pp.h"
+	<string.h>
+
+1749589213 d:\guardar en pc\preparcial2\pp.h
+
+1749592776 source:d:\guardar en pc\preparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos.h"
+	"ventas.h"
+
+1749593312 d:\guardar en pc\preparcial2\productos.h
+
+1749592993 d:\guardar en pc\preparcial2\ventas.h
+
+1749593196 source:d:\guardar en pc\preparcial2\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1749591876 source:d:\guardar en pc\preparcial2\ventas.c
+	"ventas.h"
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1749943614 source:c:\users\usuario\desktop\facultad\programacion i\stockcsv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"productos.h"
+	"ventas.h"
+
+1750037281 c:\users\usuario\desktop\facultad\programacion i\stockcsv\productos.h
+
+1749933215 c:\users\usuario\desktop\facultad\programacion i\stockcsv\ventas.h
+
+1749933215 source:c:\users\usuario\desktop\facultad\programacion i\stockcsv\ventas.c
+	"ventas.h"
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1750036022 source:c:\users\usuario\desktop\facultad\programacion i\stockcsv\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
